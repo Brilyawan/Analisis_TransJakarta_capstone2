@@ -1,6 +1,8 @@
 # Capstone Project Module 2 - Di Balik Kelalaian Tap Out: Identifikasi Pemicu di Halte TransJakarta
 
-![header](doc/header.png)
+<p align="center">
+  <img src="./docs/header.png" alt="Header" width="800" height="400">
+</p>
 
 ## Context
 Penelitian ini fokus pada ketidakpatuhan pengguna dalam sistem tap in-tap out pada TransJakarta. Meskipun kebijakan ini bertujuan menciptakan sistem pembayaran yang adil dan akurat, tapi menghadapi kendala seperti pemblokiran kartu. Tujuannya adalah mengidentifikasi faktor pemicu ketidakpatuhan tap out, khususnya di halte-halte dengan volume tinggi, untuk meningkatkan efisiensi layanan.
